@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://subs.hbnas.eu.org:16666/download/sub?target=Clash"
+    url: ""
     type: http
     interval: 86400
     health-check:
