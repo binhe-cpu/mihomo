@@ -1,0 +1,15 @@
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,cdn.hinet.net
+DOMAIN-SUFFIX,ott.hinet.net
+
+# 域名关键字匹配
+
+# 域名关键字匹配
+DOMAIN,ntdofifreepc.akamaized.net
+DOMAIN,ntdofifreepocpc.akamaized.net
+DOMAIN,ofissaifreepc.akamaized.net
