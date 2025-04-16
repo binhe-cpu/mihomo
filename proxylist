@@ -1,0 +1,10 @@
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,suo.im,mrw.so,mtw.so
+
+# 域名关键字匹配
+# DOMAIN-KEYWORD,m-team
+
+# IP匹配
+# IP-CIDR,192.33.15.1/24,no-resolve
