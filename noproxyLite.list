@@ -4,7 +4,7 @@
 DOMAIN-SUFFIX,minguoqiren.la
 
 # 域名关键字匹配
-#DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,m-team
 
 # IP匹配
 IP-CIDR,192.33.15.1/24,no-resolve
