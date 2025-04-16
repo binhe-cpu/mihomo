@@ -1,7 +1,9 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,suo.im,mrw.so,mtw.so
+DOMAIN-SUFFIX,suo.im
+DOMAIN-SUFFIX,mrw.so
+DOMAIN-SUFFIX,mtw.so
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,m-team
