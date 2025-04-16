@@ -8,3 +8,4 @@ DOMAIN-KEYWORD,m-team
 
 # IP匹配
 IP-CIDR,192.33.15.1/24,no-resolve
+IP-CIDR,150.230.252.129/24,no-resolve
