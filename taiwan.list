@@ -8,8 +8,9 @@ DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,ott.hinet.net
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,hamivideo
 
-# 域名关键字匹配
+# 域名匹配
 DOMAIN,ntdofifreepc.akamaized.net
 DOMAIN,ntdofifreepocpc.akamaized.net
 DOMAIN,ofissaifreepc.akamaized.net
