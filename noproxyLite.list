@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,cdn.lilyemby.my
 DOMAIN-SUFFIX,tyyszywvod5.com
 DOMAIN-SUFFIX,cdn.cpiccd.com
 DOMAIN-SUFFIX,dytt-cinema.com
+DOMAIN-SUFFIX,vipuuvip.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,m-team
 
@@ -22,6 +23,7 @@ IP-CIDR,220.132.15.209/24,no-resolve
 IP-CIDR,47.238.244.142/24,no-resolve
 IP-CIDR,50.7.234.10/24,no-resolve
 IP-CIDR,59.125.210.231/24,no-resolve
+
 
 
 
