@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,360zyx.vip
 DOMAIN-SUFFIX,kunyu.com.cn
 # 域名关键字匹配
 DOMAIN-KEYWORD,m-team
+DOMAIN-KEYWORD,xyz
 
 # IP匹配
 IP-CIDR,192.33.15.1/24,no-resolve
@@ -25,6 +26,7 @@ IP-CIDR,220.132.15.209/24,no-resolve
 IP-CIDR,47.238.244.142/24,no-resolve
 IP-CIDR,50.7.234.10/24,no-resolve
 IP-CIDR,59.125.210.231/24,no-resolve
+
 
 
 
