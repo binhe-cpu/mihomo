@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,hbnas.eu.org
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,m-team
+DOMAIN-KEYWORD,iill
 
 # IP匹配
 # IP-CIDR,192.33.15.1/24,no-resolve
